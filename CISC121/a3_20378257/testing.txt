@@ -1,0 +1,116 @@
+1. Display information for a district
+2. Show districts by the given province
+3. Find the maximum value
+4. Find the minimum value
+5. Total number of ballots by dictionaries
+6. Sort dictionary
+7. Percentage of voter turnout
+
+Enter the corresponding number to your needs: 1
+Enter the district number: 10001
+Polling Stations: 220
+Valid Ballots: 42086
+Total Ballots Cast: 42248
+Voter Turnout: 61.7
+
+Would you like to pick another menu number? (Y/N): Y
+1. Display information for a district
+2. Show districts by the given province
+3. Find the maximum value
+4. Find the minimum value
+5. Total number of ballots by dictionaries
+6. Sort dictionary
+7. Percentage of voter turnout
+
+Enter the corresponding number to your needs: 2
+Enter the province: Quebec
+['Abitibi--Baie-James--Nunavik--Eeyou', 'Abitibi--Témiscamingue', 'Ahuntsic-Cartierville', 'Alfred-Pellan', 'Argenteuil--La Petite-Nation', 'Avignon--La Mitis--Matane--Matapédia', 'Beauce', "Beauport--Côte-de-Beaupré--Île d'Orléans--Charlevoix", 'Beauport--Limoilou', 'Bécancour--Nicolet--Saurel', 'Bellechasse--Les Etchemins--Lévis', 'Beloeil--Chambly', 'Berthier--Maskinongé', 'Bourassa', 'Brome--Missisquoi', 'Brossard--Saint-Lambert', 'Charlesbourg--Haute-Saint-Charles', 'Châteauguay--Lacolle', 'Chicoutimi--Le Fjord', 'Compton--Stanstead', 'Dorval--Lachine--LaSalle', 'Drummond', 'Gaspésie--Les Îles-de-la-Madeleine', 'Gatineau', 'Hochelaga', 'Honoré-Mercier', 'Hull--Aylmer', 'Joliette', 'Jonquière', "La Pointe-de-l'Île", 'La Prairie', 'Lac-Saint-Jean', 'Lac-Saint-Louis', 'LaSalle--Émard--Verdun', 'Laurentides--Labelle', 'Laurier--Sainte-Marie', 'Laval--Les Îles', 'Lévis--Lotbinière', 'Longueuil--Charles-LeMoyne', 'Longueuil--Saint-Hubert', 'Louis-Hébert', 'Louis-Saint-Laurent', 'Manicouagan', 'Marc-Aurèle-Fortin', "Mégantic--L'Érable", 'Mirabel', 'Montarville', 'Montcalm', "Montmagny--L'Islet--Kamouraska--Rivière-du-Loup", 'Mount Royal/Mont-Royal', 'Notre-Dame-de-Grâce--Westmount', 'Outremont', 'Papineau', 'Pierre-Boucher--Les Patriotes--Verchères', 'Pierrefonds--Dollard', 'Pontiac', 'Portneuf--Jacques-Cartier', 'Québec', 'Repentigny', 'Richmond--Arthabaska', 'Rimouski-Neigette--Témiscouata--Les Basques', 'Rivière-des-Mille-Îles', 'Rivière-du-Nord', 'Rosemont--La Petite-Patrie', 'Saint-Hyacinthe--Bagot', 'Saint-Jean', 'Saint-Laurent', 'Saint-Léonard--Saint-Michel', 'Saint-Maurice--Champlain', 'Salaberry--Suroît', 'Shefford', 'Sherbrooke', 'Terrebonne', 'Thérèse-De Blainville', 'Trois-Rivières', 'Vaudreuil--Soulanges', 'Ville-Marie--Le Sud-Ouest--Île-des-Soeurs', 'Vimy']
+
+Would you like to pick another menu number? (Y/N): Y
+1. Display information for a district
+2. Show districts by the given province
+3. Find the maximum value
+4. Find the minimum value
+5. Total number of ballots by dictionaries
+6. Sort dictionary
+7. Percentage of voter turnout
+
+Enter the corresponding number to your needs: 3
+Enter the key value: Electors
+Max Electors: Niagara Falls 103291
+
+Would you like to pick another menu number? (Y/N): Y
+1. Display information for a district
+2. Show districts by the given province
+3. Find the maximum value
+4. Find the minimum value
+5. Total number of ballots by dictionaries
+6. Sort dictionary
+7. Percentage of voter turnout
+
+Enter the corresponding number to your needs: 4
+Enter the key value: Electors
+Min Electors: Labrador 20045
+
+Would you like to pick another menu number? (Y/N): y
+1. Display information for a district
+2. Show districts by the given province
+3. Find the maximum value
+4. Find the minimum value
+5. Total number of ballots by dictionaries
+6. Sort dictionary
+7. Percentage of voter turnout
+
+Enter the corresponding number to your needs: 5
+Alberta: 1937228
+British Columbia: 2374317
+Manitoba: 603240
+New Brunswick: 444459
+Newfoundland and Labrador: 257389
+Northwest Territories: 19077
+Nova Scotia: 526069
+Nunavut: 12023
+Ontario: 6572378
+Prince Edward Island: 87868
+Quebec: 4303758
+Saskatchewan: 553792
+Yukon: 20385
+
+Would you like to pick another menu number? (Y/N): Y
+1. Display information for a district
+2. Show districts by the given province
+3. Find the maximum value
+4. Find the minimum value
+5. Total number of ballots by dictionaries
+6. Sort dictionary
+7. Percentage of voter turnout
+
+Enter the corresponding number to your needs: 6
+Enter the key value: Electors
+Sorted by 'Electors'
+
+Would you like to pick another menu number? (Y/N): Y
+1. Display information for a district
+2. Show districts by the given province
+3. Find the maximum value
+4. Find the minimum value
+5. Total number of ballots by dictionaries
+6. Sort dictionary
+7. Percentage of voter turnout
+
+Enter the corresponding number to your needs: 7
+Enter the target district number: 10001
+Found: 61.7
+
+Would you like to pick another menu number? (Y/N): y
+1. Display information for a district
+2. Show districts by the given province
+3. Find the maximum value
+4. Find the minimum value
+5. Total number of ballots by dictionaries
+6. Sort dictionary
+7. Percentage of voter turnout
+
+Enter the corresponding number to your needs: 7
+Enter the target district number: 1
+Item was not found

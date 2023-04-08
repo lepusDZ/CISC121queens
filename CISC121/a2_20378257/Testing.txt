@@ -1,0 +1,51 @@
+Question #1:
+
+[23,44,12]
+False
+
+[5,7,9]
+True
+
+[0]
+True
+
+[]
+False
+
+[2,6,22]
+True
+
+Question #2:
+
+Enter the name: Amy
+['Anna', 'Michael', 'Mia']
+Michael has 2 friends: Amy, Max
+Anna has 3 friends: Max, Amy, Alice
+Aiden has 1 friends: Mia
+John has 1 friends: Alice
+Max has 2 friends: Michael, Anna
+Amy has 3 friends: Anna, Michael, Mia
+Alice has 2 friends: Anna, John
+Mia has 2 friends: Amy, Aiden
+
+Enter the name: Alice
+['Anna', 'John']
+Michael has 2 friends: Amy, Max
+Anna has 3 friends: Max, Amy, Alice
+Aiden has 1 friends: Mia
+John has 1 friends: Alice
+Max has 2 friends: Michael, Anna
+Amy has 3 friends: Anna, Michael, Mia
+Alice has 2 friends: Anna, John
+Mia has 2 friends: Amy, Aiden
+
+Enter the name: John
+['Alice']
+Michael has 2 friends: Amy, Max
+Anna has 3 friends: Max, Amy, Alice
+Aiden has 1 friends: Mia
+John has 1 friends: Alice
+Max has 2 friends: Michael, Anna
+Amy has 3 friends: Anna, Michael, Mia
+Alice has 2 friends: Anna, John
+Mia has 2 friends: Amy, Aiden

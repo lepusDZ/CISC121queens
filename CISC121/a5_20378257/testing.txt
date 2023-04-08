@@ -1,0 +1,84 @@
+Question 1 input:
+
+Room1 = Room(1,True,0,'standart')
+Room2 = Room(2,True,0,'suit')
+Room3 = Room(3,True,0,'taylor')
+
+Guest1 = Guest('Andrew',27,50)
+Guest2 = Guest('Jordan',18,90)
+Guest3 = Guest('Amelia',20,30)
+
+Room1.guest_check_in(Guest1)   
+Room2.guest_check_in(Guest2)    
+Room3.guest_check_in(Guest3)
+
+Guest1.add_service('Movies',100)    
+Guest1.add_service('Room service',500)
+
+Guest1.send_bill()
+
+Question1 output: 
+
+Room number: 1 | Available now: True | Date of checkout: 0
+Room number: 2 | Available now: True | Date of checkout: 0
+Room number: 3 | Available now: True | Date of checkout: 0
+
+Checking in the guests...
+
+Room number: 1 | Available now: False | Date of checkout: 27
+Room number: 2 | Available now: False | Date of checkout: 19
+Room number: 3 | Available now: False | Date of checkout: 22
+Guest1 services:
+['Movies', 'Room service']
+Guest1 total bill:
+650
+
+
+
+Question2 input:
+s.is_empty()
+
+s.push(1)
+s.push(2)
+s.push(3)
+s.push(4)
+s.push(5)
+s.push(21)
+s.push(30)
+
+s.pop()
+s.pop()
+
+s.is_empty()
+
+s.peek()
+
+s.size()
+
+s.reverse()
+
+s.reverse()
+
+Question2 output:
+Our stack now:
+[]
+Stack is empty:
+True
+Adding values...
+Our stack now:
+[1, 2, 3, 4, 5, 21, 30]
+Doing two pops
+Our stack now:
+[1, 2, 3, 4, 5]
+Stack is empty:
+False
+Stack peek:
+5
+Stack size:
+5
+Reversing the stack..
+Our stack now:
+[5, 4, 3, 2, 1]
+Reversing the stack..
+Our stack now:
+[1, 2, 3, 4, 5]

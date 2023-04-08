@@ -1,0 +1,61 @@
+Q1:
+
+dima@lepus a4_20378257 % /usr/local/bin/python3 /Users/dima/Desktop/CISC121/a4_20378257/a4_q2.py
+Enter the string: sdg
+Entered string
+SDG
+Sorted list:
+Please enter strings
+dima@lepus a4_20378257 % /usr/local/bin/python3 /Users/dima/Desktop/CISC121/a4_20378257/a4_q2.py
+Enter the string: sdf
+Entered string
+SDF
+Sorted list:
+[7, 13, 67]
+dima@lepus a4_20378257 % /usr/local/bin/python3 /Users/dima/Desktop/CISC121/a4_20378257/a4_q2.py
+Enter the string: sdfs
+Entered string
+SDFS
+Sorted list:
+[7, 13, 67, 67]
+dima@lepus a4_20378257 % /usr/local/bin/python3 /Users/dima/Desktop/CISC121/a4_20378257/a4_q1.py
+Enter the first string: asd
+Enter the second string: dsa
+It is an anagram!
+dima@lepus a4_20378257 % /usr/local/bin/python3 /Users/dima/Desktop/CISC121/a4_20378257/a4_q1.py
+Enter the first string: dgds
+Enter the second string: asdw
+It is not an anagram!
+dima@lepus a4_20378257 % /usr/local/bin/python3 /Users/dima/Desktop/CISC121/a4_20378257/a4_q1.py
+Enter the first string: sdfwe
+Enter the second string: sdfqw
+It is not an anagram!
+dima@lepus a4_20378257 % /usr/local/bin/python3 /Users/dima/Desktop/CISC121/a4_20378257/a4_q1.py
+Enter the first string: bddd
+Enter the second string: dbdd
+It is an anagram!
+
+Q2:
+Enter the string: dsfwe
+Entered string
+DSFWE
+Sorted list:
+[7, 11, 13, 67, 83]
+dima@lepus a4_20378257 % /usr/local/bin/python3 /Users/dima/Desktop/CISC121/a4_20378257/a4_q2.py
+Enter the string: asdw
+Entered string
+ASDW
+Sorted list:
+[2, 7, 67, 83]
+dima@lepus a4_20378257 % /usr/local/bin/python3 /Users/dima/Desktop/CISC121/a4_20378257/a4_q2.py
+Enter the string: dfw
+Entered string
+DFW
+Sorted list:
+[7, 13, 83]
+dima@lepus a4_20378257 % /usr/local/bin/python3 /Users/dima/Desktop/CISC121/a4_20378257/a4_q2.py
+Enter the string: vdfs
+Entered string
+VDFS
+Sorted list:
+[7, 13, 67, 79]
